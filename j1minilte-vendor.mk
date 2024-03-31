@@ -99,4 +99,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j1minilte/proprietary/lib/libvtstack.so:system/lib/libvtstack.so \
     vendor/samsung/j1minilte/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
     vendor/samsung/j1minilte/proprietary/vendor/media/LMspeed_508.emd:system/vendor/media/LMspeed_508.emd \
-    vendor/samsung/j1minilte/proprietary/vendor/media/PFFprec_600.emd:system/vendor/media/PFFprec_600.emd \
+    vendor/samsung/j1minilte/proprietary/vendor/media/PFFprec_600.emd:system/vendor/media/PFFprec_600.emd
